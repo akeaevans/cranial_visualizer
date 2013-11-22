@@ -1,0 +1,32 @@
+.wiki-page{
+ max-width: 1000px;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+#Navigation img{
+ width:100%;
+}
+#Navigation ul{
+ list-style-type:none;
+ margin:0;
+ padding:0;
+ overflow:hidden;
+}
+#Navigation ul li {
+ float:left;
+ padding: 10px;
+}
+#Navigation ul li a {
+ text-decoration:none;
+ text-transform:uppercase;
+}
+
+#content {
+ //background:green;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: "Eras Demi ITC", sans-serif;
+}
